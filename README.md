@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Heine Günther</h1>
 <h3 align="center">A former chef, now frontend developer in Oslo</h3>
 
-- 👨‍💻 All of my projects are available at [https://hg-portfolio.netlify.app/](https://hg-portfolio.netlify.app/)
+- 👨‍💻 Some of my projects are available at [https://hg-portfolio.netlify.app/](https://hg-portfolio.netlify.app/)
 
 - 📫 How to reach me **heine_gunther@hotmail.com**
 
